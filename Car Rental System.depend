@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1635567668 source:d:\car rental system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+	<ctype.h>
+
+1386340778 d:\car rental system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1635567649 d:\car rental system\car.h
+	<time.h>
+
+1635525073 source:d:\car rental system\car.c
+	<stdio.h>
+	<string.h>
+	"conio2.h"
+	"car.h"
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+
+1386420876 source:d:\car rental system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1636119527 source:c:\users\prince\desktop\car rental system\car.c
+	<stdio.h>
+	<string.h>
+	"conio2.h"
+	"car.h"
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+
+1386340778 c:\users\prince\desktop\car rental system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1635567650 c:\users\prince\desktop\car rental system\car.h
+	<time.h>
+
+1386420876 source:c:\users\prince\desktop\car rental system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1635567670 source:c:\users\prince\desktop\car rental system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+	<ctype.h>
+
+1636119527 source:d:\car rantal project\car rental system\car rental system\car.c
+	<stdio.h>
+	<string.h>
+	"conio2.h"
+	"car.h"
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+
+1386340778 d:\car rantal project\car rental system\car rental system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1635567650 d:\car rantal project\car rental system\car rental system\car.h
+	<time.h>
+
+1386420876 source:d:\car rantal project\car rental system\car rental system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1635567670 source:d:\car rantal project\car rental system\car rental system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+	<ctype.h>
+
